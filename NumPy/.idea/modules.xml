@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/NumPy.iml" filepath="$PROJECT_DIR$/.idea/NumPy.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/dsProject/.idea/dsProject.iml" filepath="$USER_HOME$/Desktop/dsProject/.idea/dsProject.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/dsProject/.idea/dsproject.iml" filepath="$USER_HOME$/Desktop/dsProject/.idea/dsproject.iml" />
+      <module fileurl="file://$APPLICATION_CONFIG_DIR$/projects/workspace/.idea/workspace.iml" filepath="$APPLICATION_CONFIG_DIR$/projects/workspace/.idea/workspace.iml" />
+    </modules>
+  </component>
+</project>
